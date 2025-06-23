@@ -2907,11 +2907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jack/DEV/AdventureWorksPortfolio/Aspire.AppHost/Aspire.AppHost.csproj",
+      "projectUniqueName": "/home/jack/DEV/AdventureWorksPortfolio/Aspire/Aspire.AppHost/Aspire.AppHost.csproj",
       "projectName": "Aspire.AppHost",
-      "projectPath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire.AppHost/Aspire.AppHost.csproj",
+      "projectPath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire/Aspire.AppHost/Aspire.AppHost.csproj",
       "packagesPath": "/home/jack/.nuget/packages/",
-      "outputPath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire.AppHost/obj/",
+      "outputPath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire/Aspire.AppHost/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jack/.nuget/NuGet/NuGet.Config"

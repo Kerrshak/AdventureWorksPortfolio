@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M+Cg/VoJvRU=",
+  "dgSpecHash": "AmbV74KXydE=",
   "success": true,
-  "projectFilePath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire.AppHost/Aspire.AppHost.csproj",
+  "projectFilePath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire/Aspire.AppHost/Aspire.AppHost.csproj",
   "expectedPackageFiles": [
     "/home/jack/.nuget/packages/aspire.dashboard.sdk.linux-x64/9.0.0/aspire.dashboard.sdk.linux-x64.9.0.0.nupkg.sha512",
     "/home/jack/.nuget/packages/aspire.hosting/9.0.0/aspire.hosting.9.0.0.nupkg.sha512",

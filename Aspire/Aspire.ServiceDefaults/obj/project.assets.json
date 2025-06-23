@@ -2158,11 +2158,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jack/DEV/AdventureWorksPortfolio/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj",
+      "projectUniqueName": "/home/jack/DEV/AdventureWorksPortfolio/Aspire/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj",
       "projectName": "Aspire.ServiceDefaults",
-      "projectPath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj",
+      "projectPath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj",
       "packagesPath": "/home/jack/.nuget/packages/",
-      "outputPath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire.ServiceDefaults/obj/",
+      "outputPath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire/Aspire.ServiceDefaults/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jack/.nuget/NuGet/NuGet.Config"

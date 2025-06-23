@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fDvOFpZc/qg=",
+  "dgSpecHash": "afbza2kBxTQ=",
   "success": true,
-  "projectFilePath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj",
+  "projectFilePath": "/home/jack/DEV/AdventureWorksPortfolio/Aspire/Aspire.ServiceDefaults/Aspire.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "/home/jack/.nuget/packages/google.protobuf/3.22.5/google.protobuf.3.22.5.nupkg.sha512",
     "/home/jack/.nuget/packages/grpc.core.api/2.52.0/grpc.core.api.2.52.0.nupkg.sha512",
